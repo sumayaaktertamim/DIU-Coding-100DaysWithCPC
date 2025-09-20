@@ -8,7 +8,8 @@ for i in range(n):
     elif hight[i]>h:
        width+=2
 print(width) 
+
+
      
      
-     
-     
+   
