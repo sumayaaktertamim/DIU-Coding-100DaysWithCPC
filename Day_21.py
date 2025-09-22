@@ -1,7 +1,7 @@
 # Drinks-800
 n= int(input())
 x=list(map(int,input().split()))
-    total=(sum(x))/n
+total=(sum(x))/n
 print(total)
 
 # type-2
