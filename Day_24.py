@@ -1,4 +1,4 @@
-/Queue at the school-800
+# Queue at the school-800
 n, t = map(int, input().split())
 s = list(input().strip()) 
 
