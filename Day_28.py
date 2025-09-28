@@ -1,0 +1,10 @@
+#   A. Divisibility Problem-800 
+t = int(input())
+
+for i in range(t):
+    a, b = map(int, input().split())
+    if a % b == 0:
+        print(0)
+    else:
+        r = b - (a % b)
+        print(r)
