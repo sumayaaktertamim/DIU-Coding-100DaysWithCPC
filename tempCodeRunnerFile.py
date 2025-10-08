@@ -1,13 +1,2 @@
-n,m=map(int,input().split())
-if n>m:
-    count=m
-    if count%2==0:
-        print("Malvika")
-    else:
-        print("Akshat")
-else:
-    count=n
-    if count%2==0:
-        print("Malvika")
-    else:
-        print("Akshat")
+a.sort()
+# print(a)
