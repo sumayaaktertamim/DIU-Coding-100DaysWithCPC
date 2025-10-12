@@ -1,5 +1,6 @@
-t=int(input())
-# for i in range(t):
-#     n,k=map(int,input().split()) 
-#     s=input()
-    
+n=input()
+
+if "H" in n or "Q" in n or "9" in n :
+    print("YES")
+else:
+    print("NO")
