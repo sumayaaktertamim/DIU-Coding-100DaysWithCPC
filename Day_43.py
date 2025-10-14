@@ -21,3 +21,4 @@ else:
     option1 = int(s[:-1])        
     option2 = int(s[:-2] + s[-1])  
     print(max(option1, option2)) 
+    
